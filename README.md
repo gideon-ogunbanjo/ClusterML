@@ -1,2 +1,2 @@
 # ClusterML
-ClusterML - Income Clustering based on Age using KMeans
+ClusterML - Clustering based on Age and Income using KMeans Clustering
